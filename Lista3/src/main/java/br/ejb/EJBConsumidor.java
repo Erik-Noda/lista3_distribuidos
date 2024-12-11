@@ -1,3 +1,5 @@
+//Erik Noda e Thiago Berto Minson
+
 package br.ejb;
 
 import jakarta.ejb.ActivationConfigProperty;

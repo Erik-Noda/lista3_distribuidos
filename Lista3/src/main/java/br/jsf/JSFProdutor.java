@@ -9,8 +9,7 @@ import jakarta.jms.JMSContext;
 import jakarta.jms.Queue;
 
 /**
- *
- * @author lucio
+ * Erik Noda e Thiago Berto Minson
  */
 @Named(value = "JSFProdutor")
 @RequestScoped
